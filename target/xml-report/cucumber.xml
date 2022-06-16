@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="51.148">
+    <testcase classname="Unknown" name="_2" time="49.948">
+        <system-out>
+            <![CDATA[* Kullanici anasayfaya gider................................................passed
+* anasayfaya gittigini dogrular.............................................passed
+* is ortaklari buttonuna tiklar.............................................passed
+* Motorist buttonuna tiklar.................................................passed
+* Motorist sayfasina gittigini  dogrular....................................passed
+* Mobilize tiklar...........................................................passed
+* Kampanyanlara tiklar......................................................passed
+* Kampanyalar sayfasina gittigini dogrular..................................passed
+* Kampanyalar bolumundeki varolan kampanyalari dogrular.....................passed
+* kullanici sayfayi kapatir.................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
